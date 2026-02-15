@@ -1,1 +1,91 @@
 # DSA_Course
+
+This repository contains my learning material, lab work, and implementations related to the **Data Structures and Algorithms (DSA)** course. The purpose of this repository is to document my progress, strengthen problem-solving skills, and maintain organized academic and practical resources.
+
+The goals of creating this repository are:
+
+📚 To help students easily access DSA study material  
+🖥️ To maintain a personal backup of important course resources  
+🤝 To share knowledge for educational purposes only  
+
+---
+
+## 📚 Contents
+
+This repository will include:
+
+- Lab Manuals  
+- Course Notes  
+- Practice Problems and Solutions  
+- Algorithm Implementations  
+- Course Book (reference material)  
+- Additional learning resources  
+
+---
+
+## 🧠 Topics Covered
+
+The course covers fundamental and advanced DSA concepts, including:
+
+- Arrays  
+- Linked Lists  
+- Stacks  
+- Queues  
+- Recursion  
+- Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, etc.)  
+- Searching Algorithms (Linear Search, Binary Search)  
+- Trees  
+- Graphs  
+- Algorithm Complexity (Time and Space Complexity)  
+
+
+---
+## 📂 Repository Structure
+
+DSA_Course/
+│
+├── Lab Manuals/
+├── Notes/ (coming soon)
+├── Practice/ (coming soon)
+├── Book/ (coming soon)
+└── README.md
+
+---
+
+---
+
+## 🎯 Objectives
+
+The main objectives of this repository are:
+
+- To maintain organized course material  
+- To practice and implement DSA concepts  
+- To track my learning progress  
+- To build a strong foundation for technical interviews and software development  
+
+---
+
+## 🚧 Status
+
+This repository is currently under development. More material, notes, and implementations will be uploaded soon.
+
+---
+
+## ⚠️ Disclaimer
+
+All material shared here is strictly for educational purposes. Ownership of textbooks, PDFs, or any proprietary material belongs to the respective authors or institutions.
+
+---
+
+## ⭐ Contribution
+
+If this repository helps you, feel free to **star ⭐ it**. Suggestions, corrections, and improvements are welcome.
+
+---
+
+## 👩‍💻 Maintained By
+
+**Maheen Fatima**  
+Student | Software Engineering  
+Learning Data Structures and Algorithms
+
