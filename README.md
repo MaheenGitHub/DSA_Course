@@ -2,11 +2,25 @@
 
 This repository contains my learning material, lab work, and implementations related to the **Data Structures and Algorithms (DSA)** course. The purpose of this repository is to document my progress, strengthen problem-solving skills, and maintain organized academic and practical resources.
 
+![GitHub stars](https://img.shields.io/github/stars/MaheenGitHub/DSA_Course?style=social)
+![GitHub license](https://img.shields.io/github/license/MaheenGitHub/DSA_Course)
+
 The goals of creating this repository are:
 
 📚 To help students easily access DSA study material  
 🖥️ To maintain a personal backup of important course resources  
 🤝 To share knowledge for educational purposes only  
+
+---
+## 📖 Table of Contents
+- [Contents](#-contents)
+- [Topics Covered](#-topics-covered)
+- [Repository Structure](#-repository-structure)
+- [Objectives](#-objectives)
+- [Status](#-status)
+- [Disclaimer](#-disclaimer)
+- [Contribution](#-contribution)
+- [Maintained By](#-maintained-by)
 
 ---
 
@@ -40,6 +54,9 @@ The course covers fundamental and advanced DSA concepts, including:
 
 
 ---
+```bash
+
+
 ## 📂 Repository Structure
 
 DSA_Course/
@@ -49,7 +66,7 @@ DSA_Course/
 ├── Practice/ (coming soon)
 ├── Book/ (coming soon)
 └── README.md
-
+```
 ---
 
 ---
@@ -67,7 +84,7 @@ The main objectives of this repository are:
 
 ## 🚧 Status
 
-This repository is currently under development. More material, notes, and implementations will be uploaded soon.
+This repository is currently under progress. More material, notes, and implementations will be uploaded soon.
 
 ---
 
