@@ -1,4 +1,4 @@
-# DSA_Course
+# Data_Structures_and_Algorithms_Course
 
 This repository contains my learning material, lab work, and implementations related to the **Data Structures and Algorithms (DSA)** course. The purpose of this repository is to document my progress, strengthen problem-solving skills, and maintain organized academic and practical resources.
 
