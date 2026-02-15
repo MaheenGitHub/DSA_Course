@@ -75,20 +75,20 @@ DSA_Course/
 
 
 
-#### Status
+### Status
 
 This repository is currently in progress. More material, notes, and implementations will be uploaded soon.
 
 
 
-#### Disclaimer⚠️
+### Disclaimer⚠️
 
 All material shared here is strictly for educational purposes. Ownership of textbooks, PDFs, or any proprietary material belongs to the respective authors or institutions.
 
 Course Code: CC-213L
 Course Instructor : Prof. Dr. Syed Waqar ul Qounain
 
-#### Contribution
+### Contribution
 
 If this repository helps you, feel free to **star ⭐ it**. Suggestions, corrections, and improvements are welcome.
 
